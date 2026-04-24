@@ -1,5 +1,5 @@
 version: STSv1
-mode: enforce
+mode: testing
 mx: stevezmt-top.mail.protection.outlook.com
 mx: *.mail.protection.outlook.com
 
