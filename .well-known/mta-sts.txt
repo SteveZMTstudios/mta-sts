@@ -1,7 +1,6 @@
 version: STSv1
 mode: testing
-mx: stevezmt-top.mail.protection.outlook.com
-mx: *.mail.protection.outlook.com
-
+mx: mxbiz2.qq.com
+mx: mxbiz1.qq.com
 max_age: 604800
 
